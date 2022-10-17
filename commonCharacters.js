@@ -14,7 +14,9 @@
 
  var commonCharacters = function(string1, string2) {
     // TODO: Your code here!
+    let arge = array .from(arguments);
     
+
   }
   
   
